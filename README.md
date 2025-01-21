@@ -1,14 +1,5 @@
-### Suggested GitHub Repository Details
 
-#### Repository Title:
-**Predicting Churn in Streaming Services**
-
-#### Repository Description:
-A comprehensive project utilizing logistic regression and random forest models to predict customer churn in a streaming service platform. Includes exploratory data analysis, data preparation, feature engineering, model optimization using Grid Search, and performance evaluation.
-
-#### README.md
-```markdown
-# Predicting Churn in Streaming Services
+## Predicting Churn in Streaming Services
 
 This project analyzes and predicts customer churn for a streaming service using logistic regression and random forest models. By leveraging Python's powerful data science libraries, it provides a robust framework for understanding customer behavior and identifying churn patterns.
 
